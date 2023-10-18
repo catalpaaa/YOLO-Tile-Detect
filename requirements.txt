@@ -1,0 +1,8 @@
+numpy
+Pillow
+PyYAML
+ultralytics
+onnx
+onnxsim
+onnxruntime
+onnxruntime-gpu
