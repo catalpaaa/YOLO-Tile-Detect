@@ -39,7 +39,7 @@ To run with ONNX using GPU, fallback to CPU
 python main.py --input_path "your/input/path/" --output_path "your/output/path/ --use_onnx --onnx_gpu"
 ```
 
-Sample command
+### Sample command
 
 Use PyTorch, runs on GPU, fallback to CPU
 
